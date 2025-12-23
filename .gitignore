@@ -1,3 +1,5 @@
-/creating_board.py
+*.pyc
+/__pyache__
 /rough_work
-/users_move.py
+# /main_work
+# *.gitignore
