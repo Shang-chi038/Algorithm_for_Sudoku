@@ -1,4 +1,4 @@
-from board_me import display_board
+from display_board_r import display_board
 board = [[0 for i in range(9)]for i in range(9)]
 board[2][3] = 5
 #  A function to accept user's move
